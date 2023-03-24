@@ -5,8 +5,8 @@ var $ = function (id)
 
 doStuffComputer = function()
 {
-	//whileFunction();
-	//forFunction();
+	whileFunction();
+	forFunction();
 	doWhileFunction();
 };
 
